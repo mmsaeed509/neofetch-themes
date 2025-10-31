@@ -14,17 +14,18 @@ Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=you
 <a href="https://discord.gg/tuWnYReXbS">Discord</a> • <a href="https://www.reddit.com/user/Chicki2D/">Reddit</a> • <a href="https://github.com/Chick2D">Github</a>
 </h4>
 
+# Overview
+
+**[Normal](#normal)**
+
+[acenoster fetch](#acenoster-fetch), [Bejkon](#bejkon), [Bejkon 2](#bejkon-2), [Boxes](#boxes), [Eldfetch](#eldfetch), [idlifetch](#idlifetch), [insert name](#insert-name), [insert name 2 electric boogaloo](#insert-name-2-electric-boogaloo), [Kenielf](#kenielf), [Mixedfetch](#mixedfetch), [Onre's Fetch](#onres-fetch), [ozozFetch](#ozozfetch), [ozozPredatorFetch](#ozozpredatorfetch), [papirus](#papirus), [Remfetch](#remfetch), [Talljoe's Fetch](#talljoes-fetch), [troutfetch](#troutfetch), [tuxNature](#tuxnature)
+
+**[Small](#small)**
+
+[af++](#af), [AxylFetch](#axylfetch), [AxylFetch EndeavourOS](#axylfetch-endeavouros), [Dotfetch](#dotfetch), [Blockfetch](#blockfetch), [BMOfetch](#bmofetch), [MinecraftFetch](#minecraftfetch), [ozozFetch](#ozozfetch), [ozozFetch_v2](#ozozfetch_v2), [PenguinFetch](#penguinfetch), [SimpleFetch](#simplefetch), [Smallfetch](#smallfetch)
+
+
 # Normal:
-
-[insert name](https://github.com/chick2d/neofetch-themes/blob/main/normal/config.conf)
----
-![](https://cdn.discordapp.com/attachments/883138437413220412/930478963552288789/unknown.png)
-
-[insert name 2 electric boogaloo](https://github.com/chick2d/neofetch-themes/blob/main/normal/config2.conf)
----
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479100232097842/unknown.png)
-
-NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` packages won't work. On other distros you can install Material Design Icons Desktop TTF from [this repository](https://github.com/Templarian/MaterialDesign-Font).
 
 [acenoster fetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/acenoster.conf)
 ---
@@ -32,9 +33,52 @@ NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, ot
 
 NOTE: You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly. To install the fonts, download any one monospaced font from [Nerd fonts download page](https://www.nerdfonts.com/font-downloads) and extract the downloaded `.zip` file and copy its contents into a folder in either `\usr\share\fonts` or `~\.local\share\fonts`
 
+[Bejkon](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon)
+---
+![](https://github.com/user-attachments/assets/1a73d1cc-9641-4b46-b82a-99a9aecaab1f)
+
+NOTE: To use the logo you need to change the ascii source in line 743 to where your logo file is stored at.
+
+[Bejkon 2](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon2)
+---
+![](https://github.com/user-attachments/assets/cb35bcea-0f83-4af6-9ad1-a4a5629d8722)
+
+NOTE: Same as Bejkon but line 741
+
+[Boxes](https://github.com/Chick2D/neofetch-themes/blob/main/normal/boxes.conf)
+---
+![](https://github.com/user-attachments/assets/40a88515-e207-45f0-b832-c09e66e5b23f)
+
+[Eldfetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/eldfetch.conf)
+---
+![image](https://github.com/user-attachments/assets/7623d044-672c-4667-9176-a942416083c1)
+
+
 [idlifetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/idlifetch.conf)
 ---
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479141004910622/unknown.png)
+![](https://github.com/user-attachments/assets/2961d204-664b-48da-89a6-520aaabee23b)
+
+[insert name](https://github.com/chick2d/neofetch-themes/blob/main/normal/config.conf)
+---
+![](https://github.com/user-attachments/assets/21d05f21-9645-4d5d-b47b-023fb83047a2)
+
+[insert name 2 electric boogaloo](https://github.com/chick2d/neofetch-themes/blob/main/normal/config2.conf)
+---
+![](https://github.com/user-attachments/assets/a7fe89af-fc42-4248-b6d6-8368352826ab)
+
+NOTE: On Arch-based distros, run `yay -S ttf-material-design-icons-extended`, otherwise the `pacman` packages won't work. On other distros you can install Material Design Icons Desktop TTF from [this repository](https://github.com/Templarian/MaterialDesign-Font).
+
+[Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/insp3442-arch/.config/neofetch/config.conf)
+---
+![Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/img/showcase--neofetch--insp3442-arch.png)
+
+[Mixedfetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/hybridfetch.conf)
+---
+![](https://github.com/user-attachments/assets/f5aff3c6-633f-4803-b01a-aa1b6d2f6345)
+
+[Onre's Fetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/onrefetch.conf)
+---
+![](https://raw.githubusercontent.com/arionrefat/dotfiles/master/screenshots/.screenshots/ss5.png)
 
 [ozozFetch](https://github.com/mmsaeed509/neofetch-themes/blob/main/normal/ozozfetch)
 ---
@@ -44,78 +88,67 @@ NOTE: You will need to install any one Nerd font and use it in your terminal for
 ---
 ![ozozPredatorFetch](https://user-images.githubusercontent.com/62524855/183531885-452c1734-b5c6-40a4-a4f7-7677c36d6404.gif)
 
-[Talljoe's Fetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/talljoe.conf)
----
-![](https://media.discordapp.net/attachments/883138437413220412/930506977115791380/unknown.png?width=783&height=359)
-
-[Onre's Fetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/onrefetch.conf)
----
-![](https://raw.githubusercontent.com/arionrefat/dotfiles/master/screenshots/.screenshots/ss5.png)
-
-[Bejkon](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon)
----
-![](https://cdn.discordapp.com/attachments/515557109404794905/1003552241669652480/RDT_20220801_1204219081639824454444879.jpg)
-
-NOTE: To use the logo you need to change the ascii source in line 743 to where your logo file is stored at.
-
-[Bejkon 2](https://github.com/Chick2D/neofetch-themes/tree/main/normal/bejkon2)
----
-![](https://cdn.discordapp.com/attachments/515557109404794905/1004117004577415189/RDT_20220727_2146317505033582455700240.jpg)
-
-NOTE: Same as Bejkon 2 but line 741
-
-[Kremfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
----
-![](https://cdn.discordapp.com/attachments/883138437413220412/1002653085925122088/screenshot.png)
-
 [papirus](https://github.com/chick2d/neofetch-themes/blob/main/normal/papirus.conf)
 ---
-![](https://cdn.discordapp.com/attachments/993915832897908797/993918477649846372/unknown.png)
+![](https://github.com/user-attachments/assets/edda5e03-c770-49bf-9ffc-d66ed6f26ad8)
 
-[Mixedfetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/hybridfetch.conf)
+[Remfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
 ---
-![](https://cdn.discordapp.com/attachments/780366738536792064/997469230708568144/Screenshot_2022-07-15_17-43-56.png)
+![](https://github.com/user-attachments/assets/ca9b9d8e-ba06-438f-b536-4eaf85604d99)
 
-[Boxes](https://github.com/Chick2D/neofetch-themes/blob/main/normal/boxes.conf)
+[Talljoe's Fetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/talljoe.conf)
 ---
-![](https://media.discordapp.net/attachments/476369660917579776/999305515911876608/unknown.png)
-
-[Eldfetch](https://github.com/Chick2D/neofetch-themes/blob/main/normal/eldfetch.conf)
----
-![eldfetch](https://cdn.discordapp.com/attachments/971699312855760919/1005813737690775594/unknown.png)
-
-[Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/insp3442-arch/.config/neofetch/config.conf)
----
-![Kenielf](https://github.com/kenielf/dotfiles/blob/2c5db620b8f46b987e953700992a08c45249734f/img/showcase--neofetch--insp3442-arch.png)
+![](https://github.com/user-attachments/assets/a4a593f9-4f31-4bbc-b648-020da0e81678)
 
 [troutfetch](https://github.com/Chick2D/neofetch-themes/blob.main/normal/troutfetch.conf)
 ---
 ![troutfetch](https://user-images.githubusercontent.com/99826409/203158696-2db51171-0f17-48ba-8f5d-d49d6a49a4ce.png)
 
+[tuxNature](https://github.com/MD-DILDAR-MANDAL/neofetch-themes/blob/main/normal/tuxNature/config.conf)
+---
+![tuxNature](normal/tuxNature/tn2.png)
+
 # Small:
 Note: you are required to manually change the distro ascii in the config
-
-[Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/smallfetch.conf)
----
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479504386850858/unknown.png)
-
-[Blockfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/blockfetch.conf)
----
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479450821365770/unknown.png)
-
-[Dotfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/dotfetch.conf)
----
-![](https://cdn.discordapp.com/attachments/515557109404794905/995619800032215050/RDT_20220710_1445015126100784893260744.gif)
-
-[AxylFetch](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetch.conf)
----
-![](https://cdn.discordapp.com/attachments/883138437413220412/930479412208615534/unknown.png)
 
 [af++](https://github.com/chick2d/neofetch-themes/blob/main/small/af++)
 ---
 ![](https://user-images.githubusercontent.com/86041547/183238998-bebcc068-01b1-4650-8777-d68cd37d960d.png)
 
 Fun fact: This is called af++ or AxylFetch++ because this was actually based on AxylFetch once, then got modified further
+
+[AxylFetch](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetch.conf)
+---
+![](https://github.com/user-attachments/assets/616f2817-cacd-4405-8f60-ad91d1b13825)
+
+[AxylFetch EndeavourOS](https://github.com/chick2d/neofetch-themes/blob/main/small/axylfetchEOS)
+---
+![](https://github.com/user-attachments/assets/24140ebc-742e-4ac3-8c30-4bafab1c5f74)
+
+[Blockfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/blockfetch.conf)
+---
+![](https://github.com/user-attachments/assets/5af8d962-62c8-41b9-85c9-79ecfce598b1)
+
+[BMOfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch)
+---
+![bmofetch](https://github.com/user-attachments/assets/1850e6a3-6ad2-4421-a73b-3259f9b064f1)
+
+**if you want to change the speech bubble text**, you can do so by running [bmosay.sh](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmosay.sh) in your terminal:
+```bash
+ sh path_to_bmofetch/bmosay.sh "your text here"
+```
+
+NOTE: You will need to install any one Nerd font and use it in your terminal for the above theme to render the icons correctly.
+To install the fonts, download any one monospaced font from [Nerd fonts download page](https://www.nerdfonts.com/font-downloads) and extract the downloaded `.zip` file and copy its contents into a folder in either `\usr\share\fonts` or `~\.local\share\fonts`.
+If the font is **not monospaced** you will perhaps need to change the gap size in the [config](https://github.com/Chick2D/neofetch-themes/blob/main/small/bmofetch/bmofetch.conf) for the speech bubble to overlay correctly.
+
+[Dotfetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/dotfetch.conf)
+---
+![RDT_20220710_1445015126100784893260744](https://github.com/user-attachments/assets/e58d07ba-a282-40b7-9853-2af085cfe26a)
+
+[MinecraftFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/minecraftfetch/config.conf)
+---
+![](https://i.imgur.com/iA3Bors.png)
 
 [ozozFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/ozozfetch.conf)
 ---
@@ -125,13 +158,17 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 ---
 ![ozozFetchSmallV2](https://user-images.githubusercontent.com/62524855/183532188-b17e85e7-0143-4944-9768-11fc7f6c9a29.gif)
 
+[PenguinFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/penguinfetch.conf)
+---
+![](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/screenshot.png)
+
 [SimpleFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/simplefetch.conf)
 ---
 ![](https://github.com/gosxrgxx/dotfiles/blob/main/dot_config/neofetch/screenshot.png?raw=true)
 
-[PenguinFetch](https://github.com/Chick2D/neofetch-themes/blob/main/small/penguinfetch.conf)
+[Smallfetch](https://github.com/chick2d/neofetch-themes/blob/main/small/smallfetch.conf)
 ---
-![](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/screenshot.png)
+![](https://github.com/user-attachments/assets/f50cca86-b29e-4148-9655-9c27c2d611f5)
 
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
@@ -166,12 +203,12 @@ in your preferred folder.
 
 3. Run 
 ```bash
-mv neofetch-themes/<folder>/<file> ~/.config/neofetch/config.conf
+cat neofetch-themes/<folder>/<file> > ~/.config/neofetch/config.conf
 ```
 where `<folder>` is the section in this readme, while `<file>` is the file name of the config of this theme.
 > For example: If you want papirus, it'd be
 ```
-mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf
+cat neofetch-themes/normal/papirus.conf > ~/.config/neofetch/config.conf
 ```
 
 </details>
@@ -185,8 +222,6 @@ WM: bspwm \
 Terminal: alacritty \
 Neofetch Theme: axylfetch
 
-The latter is more so a suggestion so it brings more awareness to the project easier than a must unlike the former
-
 To add your own theme send a pull request containing your file in the appropriate directory,
 a screenshot in the readme and it's name, you can understand the syntax yourself its very easy
 
@@ -195,6 +230,4 @@ Support
 
 I'd really appreciate any kind of support for me
 
-I'd prefer if I got gifted an Amazon or a Cubelelo giftcard, just message me on [Discord](https://discord.gg/tuWnYReXbS) or [Reddit](https://www.reddit.com/user/Chicki2D/)
-
-BTC: `1HffvknYXCbLsqiWHtUUCVKbkWVLKxdDim`
+Or dm me on [Reddit](https://www.reddit.com/user/Chicki2D/)
